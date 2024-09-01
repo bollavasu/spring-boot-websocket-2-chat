@@ -1,0 +1,8 @@
+
+https://springhow.com/spring-boot-websocket/
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/     (open 3 browsers)
